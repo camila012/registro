@@ -1,0 +1,40 @@
+
+.jumbotron {
+  background-color: #1eb2a6 !important; 
+  font-size: 1.875rem;
+  color: #262626;
+  background-size: 49% auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  ;
+  
+}
+.Titulo {
+  color: aliceblue;
+  justify-items: center;
+  
+  
+}
+
+
+
+.final{
+  
+  background: #2a7486;
+  background: linear-gradient(to right, rgb(99, 240, 240), rgb(16, 146, 146));
+  width: 100%;
+  padding: 4%;
+  
+  
+  
+}
+.enviar{ 
+  height: 200px;
+  background-color: #2a7486;
+  background-image: linear-gradient(rgb(73, 241, 241), #2a7486,#0bf1c0);
+
+}
+
+
+
+
